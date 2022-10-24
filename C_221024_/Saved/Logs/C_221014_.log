@@ -7382,3 +7382,1266 @@ Script Stack (0 frames):
 [2022.10.24-06.59.31:119][422]AssetCheck: New page: 에셋 저장:  다수의 에셋
 [2022.10.24-06.59.31:119][422]LogContentValidation: Display: World /Game/Maps/P38.P38 유효성 검사 중
 [2022.10.24-06.59.31:119][422]LogContentValidation: Display: SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue 유효성 검사 중
+[2022.10.24-07.03.45:623][857]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.24-07.03.45:639][857]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.24-07.03.52:911][294]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2022.10.24-07.03.52:923][294]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.24-07.04.39:073][ 63]LogContentBrowser: Attempting asset rename: Meshes -> Meshe
+[2022.10.24-07.04.39:158][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_Rocket" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_Rocket.uasset" SILENT=true
+[2022.10.24-07.04.39:271][ 63]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_Rocket0ED20B994D8C9EDF3FF6809E001092C4.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_Rocket.uasset'
+[2022.10.24-07.04.39:288][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_P38_Body" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Body.uasset" SILENT=true
+[2022.10.24-07.04.39:416][ 63]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_P38_BodyA92ED3AE489F0C45DF1528AD866B48C0.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Body.uasset'
+[2022.10.24-07.04.39:429][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_P38_Propeller" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Propeller.uasset" SILENT=true
+[2022.10.24-07.04.39:551][ 63]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_P38_Propeller19F862574374998D9ABCAA80B7BC6ED3.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Propeller.uasset'
+[2022.10.24-07.04.39:642][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.10.24-07.04.39:666][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.24-07.04.39:687][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.24-07.04.39:716][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.24-07.04.39:736][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.24-07.04.39:790][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Blueprint/BP_p38" FILE="../../../../../project/C_221014_/Content/P38/Blueprint/BP_p38.uasset" SILENT=true
+[2022.10.24-07.04.40:358][ 63]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/BP_p385AF3F25A4B767F8483BFBA8E2B792213.tmp' to '../../../../../project/C_221014_/Content/P38/Blueprint/BP_p38.uasset'
+[2022.10.24-07.04.40:391][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Blueprint/BP_Rocket" FILE="../../../../../project/C_221014_/Content/P38/Blueprint/BP_Rocket.uasset" SILENT=true
+[2022.10.24-07.04.40:630][ 63]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/BP_Rocket3EDB93F74FB03C8522FDF3A78C3856D5.tmp' to '../../../../../project/C_221014_/Content/P38/Blueprint/BP_Rocket.uasset'
+[2022.10.24-07.04.40:655][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Blueprint/BP_p39_Pawn" FILE="../../../../../project/C_221014_/Content/P38/Blueprint/BP_p39_Pawn.uasset" SILENT=true
+[2022.10.24-07.04.41:470][ 63]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/BP_p39_Pawn5081E49442F91012353F239213CEFB61.tmp' to '../../../../../project/C_221014_/Content/P38/Blueprint/BP_p39_Pawn.uasset'
+[2022.10.24-07.04.41:541][ 63]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.10.24-07.04.41:541][ 63]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_Rocket.SM_Rocket 유효성 검사 중
+[2022.10.24-07.04.41:541][ 63]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_P38_Body.SM_P38_Body 유효성 검사 중
+[2022.10.24-07.04.41:541][ 63]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_P38_Propeller.SM_P38_Propeller 유효성 검사 중
+[2022.10.24-07.04.41:541][ 63]LogContentValidation: Display: Blueprint /Game/P38/Blueprint/BP_p38.BP_p38 유효성 검사 중
+[2022.10.24-07.04.41:542][ 63]LogContentValidation: Display: Blueprint /Game/P38/Blueprint/BP_p39_Pawn.BP_p39_Pawn 유효성 검사 중
+[2022.10.24-07.04.41:542][ 63]LogContentValidation: Display: Blueprint /Game/P38/Blueprint/BP_Rocket.BP_Rocket 유효성 검사 중
+[2022.10.24-07.06.34:122][815]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.10.24-07.06.34:132][815]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.10.24-07.06.36:686][969]LogContentBrowser: Attempting asset rename: NewMaterial -> M_P38
+[2022.10.24-07.06.36:688][969]LogContentBrowser: End creating deferred item NewMaterial
+[2022.10.24-07.07.08:704][889]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/P38/Material/M_P38.M_P38
+[2022.10.24-07.07.08:710][889]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: A288EF1127DBC20A6D3B44D76AACB4DEE16310A2), compiling. 
+[2022.10.24-07.07.08:737][889]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.10.24-07.07.08:764][889]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.10.24-07.07.08:860][889]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.24-07.07.09:030][889]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: EB26A2354EE78F8E92211CC76C55F714C898FA08), compiling. 
+[2022.10.24-07.07.09:056][889]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.07.09:129][890]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.07.11:069][  5]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-07.07.11:069][  5]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.10.24-07.07.11:069][  5]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.10.24-07.07.11:069][  5]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.24-07.07.11:069][  5]LogShaderCompilers: Display: ================================================
+[2022.10.24-07.07.11:267][ 17]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.07.11:966][ 59]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.24-07.07.11:966][ 59]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.24-07.07.11:966][ 59]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.07.11:966][ 59]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.17.50:589][372]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D536D71FCEF183578D19BDDCE12A54A8F51681E), compiling. 
+[2022.10.24-07.17.50:591][372]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 31AB77D9DE401E0D923CA15841C74ADC22CB6847), compiling. 
+[2022.10.24-07.17.50:594][372]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.17.50:619][373]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.17.50:619][373]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-07.17.50:619][373]LogShaderCompilers: Display: Total job queries 32, among them cache hits 10 (31.25%)
+[2022.10.24-07.17.50:619][373]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2022.10.24-07.17.50:619][373]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.10.24-07.17.50:619][373]LogShaderCompilers: Display: ================================================
+[2022.10.24-07.17.50:629][374]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.17.50:629][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.17.50:629][374]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.17.50:630][374]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.24-07.17.50:630][374]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.24-07.17.50:630][374]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.17.50:630][374]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.02:668][ 93]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: BE08214226EDC8F4B96BFADA4FC097FB6192EB43), compiling. 
+[2022.10.24-07.18.02:670][ 93]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C0CC3214EC0E2DCACB6ADEF96FFE8C461BD3FB21), compiling. 
+[2022.10.24-07.18.02:672][ 93]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A7E3C5C7DCB2FEEFB231BF14F1CF7C8C2FC5B09A), compiling. 
+[2022.10.24-07.18.02:673][ 93]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 46005D083414CDF45010D1014C0DE2AC5E090950), compiling. 
+[2022.10.24-07.18.02:678][ 93]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.02:695][ 95]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.02:700][ 95]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.18.02:700][ 95]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.18.02:700][ 95]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.02:700][ 95]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.02:719][ 96]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.24-07.18.02:719][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.24-07.18.02:719][ 96]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.02:719][ 96]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.03:587][148]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: B68E98499CE3ED9E216EF570DB217656C130CE18), compiling. 
+[2022.10.24-07.18.03:589][148]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FBEF704B5C019313D6C82757704FEAD855D122F), compiling. 
+[2022.10.24-07.18.03:590][148]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EAA87E4B79A9CF0F6D821B1D7D0D75EBB75E99CC), compiling. 
+[2022.10.24-07.18.03:592][148]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 34F5714D97D9A9E6E996CEA6CC121C15736EE904), compiling. 
+[2022.10.24-07.18.03:596][148]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.03:615][150]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.03:622][150]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.18.03:622][150]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.18.03:622][150]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.03:622][150]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.03:641][151]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.24-07.18.03:641][151]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.24-07.18.03:641][151]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.03:641][151]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.04:726][216]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: A6C3684EC7D874AF7261BB2C3AD80010DC0E617F), compiling. 
+[2022.10.24-07.18.04:726][216]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 246AE7482A52D5D17CF8F9FAF666532CAC26EA1B), compiling. 
+[2022.10.24-07.18.04:728][216]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9EC0C8F6EE09E0BC97176AA58E5852AF54FE1204), compiling. 
+[2022.10.24-07.18.04:729][216]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 37E9A81618959A7A713C08D666971E86D628EB65), compiling. 
+[2022.10.24-07.18.04:730][216]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.04:752][218]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.04:752][218]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.18.04:753][218]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.18.04:753][218]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.04:758][218]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.24-07.18.04:758][218]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.24-07.18.04:758][218]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.04:759][218]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.05:943][289]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 90E3C61072E15A8FB631A0B4C2B9ED3C888CB6E7), compiling. 
+[2022.10.24-07.18.05:945][289]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: C3C714614F436FE56A8DBC24BD76358032999241), compiling. 
+[2022.10.24-07.18.05:946][289]LogSlate: Window '색상 선택 툴' being destroyed
+[2022.10.24-07.18.05:958][289]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.05:981][291]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.05:998][292]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.24-07.18.05:999][292]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.24-07.18.05:999][292]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.05:999][292]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.16:319][911]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: AF4E5819AA71693A142A1C59823ADBF3DE1834FD), compiling. 
+[2022.10.24-07.18.16:321][911]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 38FA187C6E5770442F54F6C8887B7B6F2CAF5C27), compiling. 
+[2022.10.24-07.18.16:323][911]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.16:328][912]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.18.16:340][913]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.17:284][969]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.18:401][ 36]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.18.18:401][ 36]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.18.18:401][ 36]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.18:401][ 36]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.35:378][ 54]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 2C8B953E041C0BBE07752BC225ED408257EF6B0F), compiling. 
+[2022.10.24-07.18.35:380][ 54]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.35:411][ 56]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.18.35:411][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.18.35:411][ 56]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.35:411][ 56]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.39:278][286]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 93A243B68648949BE78E4C7ACA6B918F0793ABB2), compiling. 
+[2022.10.24-07.18.39:280][286]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.39:285][287]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.18.39:300][288]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.40:835][378]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.41:567][422]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.18.41:567][422]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.18.41:567][422]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.41:567][422]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.53:823][155]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: CA37B12859D456C9C14E51A1B5E9B993705A0770), compiling. 
+[2022.10.24-07.18.53:825][155]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.53:857][157]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.18.53:857][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.18.53:857][157]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.53:857][157]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.56:976][344]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 47FBADA8DFD4F424DFABF6D009B27A9FB65E3672), compiling. 
+[2022.10.24-07.18.56:979][344]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.18.56:984][345]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.56:998][346]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.18.56:999][346]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.18.56:999][346]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.18.56:999][346]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.18.56:999][346]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.18.56:999][346]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.18.56:999][346]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.18.56:999][346]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.18.56:999][346]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.18.57:962][402]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.18.58:712][447]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.18.58:712][447]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.18.58:712][447]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.18.58:712][447]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.19.01:330][604]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 23F4C028B1C87596AB675F144457DD8209435E79), compiling. 
+[2022.10.24-07.19.01:333][604]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: E735CF40DCA8D5972D41398029EC182985E50EBB), compiling. 
+[2022.10.24-07.19.01:334][604]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.19.01:339][605]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.19.01:340][605]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.19.01:340][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.19.01:340][605]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.19.01:354][606]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.19.01:354][606]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.19.01:354][606]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.19.01:354][606]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.19.01:354][606]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.19.01:354][606]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.19.02:254][659]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.19.03:021][705]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.19.03:021][705]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.19.03:021][705]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.19.03:021][705]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.19.06:290][901]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 55A55B44ED5DFED5C8E2B8EB07B71A0B5313853D), compiling. 
+[2022.10.24-07.19.06:293][901]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C1B93E14F719BCD1FB04DD5CA54BCE280A930A4), compiling. 
+[2022.10.24-07.19.06:294][901]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.19.06:299][902]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.19.06:310][903]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.19.07:174][954]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.19.07:923][999]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.24-07.19.07:923][999]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2022.10.24-07.19.07:923][999]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.19.07:923][999]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.08:295][620]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 01CCAD159750FAE848FF21BF1D1B9C370DA896DC), compiling. 
+[2022.10.24-07.20.08:297][620]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 05BA0282264031511788A2ACDC6357E02FF3956F), compiling. 
+[2022.10.24-07.20.08:299][620]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.08:303][621]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.08:320][622]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.20.08:320][622]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.20.08:320][622]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.08:320][622]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.08:336][623]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.20.08:336][623]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.20.08:336][623]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.20.08:336][623]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.20.08:336][623]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.09:748][704]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.10:532][751]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.24-07.20.10:532][751]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2022.10.24-07.20.10:532][751]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.20.10:532][751]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.10:883][772]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D81F2611AD8AF9B17138CF3B793044D11C9BA5C), compiling. 
+[2022.10.24-07.20.10:885][772]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D73B1C1748FF4FCC881D8ECC8151390E27D1923), compiling. 
+[2022.10.24-07.20.10:887][772]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AA2B24E83D418C6370C6C233DEB6797D27BD673), compiling. 
+[2022.10.24-07.20.10:888][772]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.10:893][773]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.10:906][774]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.10:926][775]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.10.24-07.20.10:926][775]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.10.24-07.20.10:926][775]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.12:098][843]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.12:733][881]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: C80F6CF7B289E4304E90810213E3AA49D1F484B0), compiling. 
+[2022.10.24-07.20.12:735][881]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 557E846DFD0959A19F9B95B1763598AB1069DC2C), compiling. 
+[2022.10.24-07.20.12:737][881]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: E244E8F870FF92E6C2C719A11B5C31AEDF0C6513), compiling. 
+[2022.10.24-07.20.12:743][881]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.12:749][882]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.12:749][882]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.20.12:749][882]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.20.12:749][882]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.12:758][883]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.12:758][883]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.20.12:758][883]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.20.12:758][883]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.10.24-07.20.12:758][883]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.10.24-07.20.12:758][883]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.12:764][883]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.12:779][884]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.10.24-07.20.12:779][884]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.13:013][898]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.10.24-07.20.13:014][898]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.13:920][951]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.14:689][997]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.24-07.20.14:690][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2022.10.24-07.20.14:690][997]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.20.14:690][997]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.17:041][138]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DB91F7934DDE403C9F1B53B00A5E959BA8E933D), compiling. 
+[2022.10.24-07.20.17:043][138]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 48C7E993F144E1DBC5FCD816BF18F12F9ED4D34D), compiling. 
+[2022.10.24-07.20.17:045][138]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D0BEFC8C20BB854B043AF3466ACEABA9023F9CE), compiling. 
+[2022.10.24-07.20.17:046][138]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.17:052][139]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.17:052][139]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.20.17:052][139]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.20.17:052][139]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.17:065][140]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.17:065][140]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.20.17:065][140]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.20.17:065][140]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.20.17:065][140]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.20.17:065][140]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.17:069][140]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.17:083][141]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.10.24-07.20.17:083][141]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.10.24-07.20.17:083][141]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.18:147][203]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.18:996][254]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.24-07.20.18:996][254]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2022.10.24-07.20.18:996][254]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.20.18:996][254]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.25:035][616]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 4293FE2978733A83C0270B7CD34D79945B662CD8), compiling. 
+[2022.10.24-07.20.25:038][616]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 368ACB6851F83EDA918EAFF26CFC80E491FD9AB8), compiling. 
+[2022.10.24-07.20.25:041][616]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.25:047][617]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.25:055][618]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.20.25:055][618]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.20.25:055][618]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.25:055][618]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.25:056][618]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.20.25:056][618]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.20.25:056][618]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.20.25:056][618]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.20.25:056][618]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.25:919][669]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.26:536][706]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: AF766F131773147868E8CEE597C8C6C67DEBA023), compiling. 
+[2022.10.24-07.20.26:539][706]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 023A2CCF15DEFE543CCCC846E800A320865A7AE5), compiling. 
+[2022.10.24-07.20.26:541][706]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.26:569][708]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.26:586][709]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.24-07.20.26:586][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2022.10.24-07.20.26:586][709]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.20.26:586][709]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.29:437][880]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: D6B349BE98734C513A8C8DD1E793EBA058D11BAF), compiling. 
+[2022.10.24-07.20.29:440][880]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 1AB7DBF4BF3190D7B0CA9C22CA26000EBBF7681E), compiling. 
+[2022.10.24-07.20.29:442][880]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.29:446][881]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.20.29:460][882]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.30:402][935]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.31:192][982]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.20.31:192][982]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.20.31:192][982]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.20.31:192][982]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.46:294][888]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DF72C2F06F3A9CE7741F7ABDBBCC66FAF3166F1), compiling. 
+[2022.10.24-07.20.46:296][888]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 164A2C365AC17A192957B603A0A8B4DED41CD30E), compiling. 
+[2022.10.24-07.20.46:300][888]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: F617FD8F8D590D0A22433A9B345F2019C4B8F97E), compiling. 
+[2022.10.24-07.20.46:302][888]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.46:306][889]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.46:314][890]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.20.46:314][890]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.20.46:314][890]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.46:314][890]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.46:317][890]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.46:337][891]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.10.24-07.20.46:338][891]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.10.24-07.20.46:338][891]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.10.24-07.20.46:338][891]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.10.24-07.20.46:338][891]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.10.24-07.20.46:338][891]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.10.24-07.20.46:338][891]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.46:338][891]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.47:653][969]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.48:553][ 23]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.20.48:553][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.20.48:553][ 23]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.20.48:553][ 23]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.53:571][324]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 872193183B154362A5031A78F6CD0777C5873F3D), compiling. 
+[2022.10.24-07.20.53:573][324]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DD503FA32AA8BDBDDB163F4B08C9AF6CFCF525C), compiling. 
+[2022.10.24-07.20.53:575][324]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.20.53:579][325]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.20.53:594][326]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.20.54:276][366]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-07.20.54:277][366]LogShaderCompilers: Display: Total job queries 266, among them cache hits 100 (37.59%)
+[2022.10.24-07.20.54:277][366]LogShaderCompilers: Display: Tracking 147 distinct input hashes that result in 82 distinct outputs (55.78%)
+[2022.10.24-07.20.54:277][366]LogShaderCompilers: Display: RAM used: 0.50 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2022.10.24-07.20.54:277][366]LogShaderCompilers: Display: ================================================
+[2022.10.24-07.20.54:491][379]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.20.55:258][425]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.20.55:258][425]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.20.55:258][425]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.20.55:258][425]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.21.22:811][ 78]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 9A9296A31466112FA1A083E135793CD75D01A2CD), compiling. 
+[2022.10.24-07.21.22:813][ 78]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 03A07044BFB50230AEF40A4A1A42008E3CF3DA6B), compiling. 
+[2022.10.24-07.21.22:815][ 78]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 05C9C574DCEB86DB94B7A970A4DD5E63EA44A3AF), compiling. 
+[2022.10.24-07.21.22:820][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.21.22:825][ 79]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.22:831][ 80]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.21.22:831][ 80]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.21.22:831][ 80]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.22:831][ 80]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.22:834][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.22:869][ 82]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.10.24-07.21.22:869][ 82]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.10.24-07.21.22:869][ 82]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.10.24-07.21.22:869][ 82]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.10.24-07.21.22:869][ 82]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.10.24-07.21.22:869][ 82]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.10.24-07.21.22:869][ 82]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.22:869][ 82]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.24:512][178]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D5209FAB6AC96C0AEBAF16E486C557FE4648756), compiling. 
+[2022.10.24-07.21.24:516][178]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D2CF4CBF6D79655BA2982F13644FE8D617BC3175), compiling. 
+[2022.10.24-07.21.24:520][178]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 33A379074AB7B10BCE0CA42ABE33CFEBA99E6274), compiling. 
+[2022.10.24-07.21.24:538][179]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.24:539][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.21.24:539][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.21.24:539][179]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.24:550][180]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.24:550][180]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.21.24:550][180]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.21.24:550][180]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.24:558][180]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.25:361][228]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.10.24-07.21.25:361][228]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.25:460][234]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.21.25:461][234]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.25:628][244]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.10.24-07.21.25:628][244]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.25:749][251]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.10.24-07.21.25:749][251]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.25:768][252]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.21.25:784][253]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.10.24-07.21.25:784][253]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.26:212][278]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.10.24-07.21.26:212][278]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.26:318][284]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: A16F65AFCAABE16B00B9E9CD4D5DF4A80EA8FA03), compiling. 
+[2022.10.24-07.21.26:322][284]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5441ED664FA761788775A136366C2AB48992E6EC), compiling. 
+[2022.10.24-07.21.26:326][284]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A522D5B668E84B635850886045771AC1790A2F4), compiling. 
+[2022.10.24-07.21.26:329][284]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.21.26:344][285]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.26:344][285]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.10.24-07.21.26:344][285]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.10.24-07.21.26:344][285]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.26:355][286]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.26:362][286]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.26:543][297]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.10.24-07.21.26:543][297]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.26:644][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.10.24-07.21.26:644][303]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.21.26:746][309]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.10.24-07.21.26:746][309]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.27:219][337]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.10.24-07.21.27:220][337]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.27:253][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.10.24-07.21.27:253][339]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.27:270][340]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.21.27:270][340]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.27:484][353]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.10.24-07.21.27:485][353]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.27:534][356]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.10.24-07.21.27:534][356]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.27:641][362]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.21.27:641][362]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.21.27:642][362]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.21.28:677][424]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.21.28:677][424]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.21.28:677][424]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.21.28:677][424]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.08:383][806]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: E176ACF0D03D531E85C0CBE8E81B5B5DF6DFC06D), compiling. 
+[2022.10.24-07.22.08:385][806]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 28C19777748602A09D6C38E245B2A79581AD9132), compiling. 
+[2022.10.24-07.22.08:387][806]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.22.08:392][807]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.22.08:392][807]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.22.08:392][807]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.22.08:392][807]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.22.08:405][808]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.22.08:424][809]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.22.08:424][809]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.22.08:424][809]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.22.08:424][809]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.22.08:424][809]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.22.09:783][890]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.10:550][936]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.22.10:550][936]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.22.10:550][936]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.22.10:550][936]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.12:451][ 50]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: DEB1407BE05A1A36D0ADE4BD429693F8C07E35FB), compiling. 
+[2022.10.24-07.22.12:452][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.22.12:483][ 52]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.22.12:483][ 52]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.22.12:483][ 52]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.22.12:483][ 52]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.18:851][434]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F5FFFCC46423C215C91D2CEF19544C591D59902), compiling. 
+[2022.10.24-07.22.18:854][434]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 83E370E0347D3BCE9213570CE192625D89219192), compiling. 
+[2022.10.24-07.22.18:855][434]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.22.18:860][435]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.22.18:872][436]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.22.18:873][436]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.22.18:873][436]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.22.18:873][436]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.22.18:873][436]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.22.18:873][436]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.22.18:873][436]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.22.18:873][436]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.22.18:873][436]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.22.19:862][492]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.20:605][536]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.22.20:605][536]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.22.20:605][536]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.22.20:605][536]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.21:939][616]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: EB19B62B11AF3E6277B85A83946FA91BF91057C9), compiling. 
+[2022.10.24-07.22.21:941][616]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.22.21:971][618]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.22.21:971][618]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.22.21:971][618]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.22.21:971][618]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.26:309][878]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: F177E92CDD025CD58DD2617BCE800F031B1E113F), compiling. 
+[2022.10.24-07.22.26:310][878]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.22.26:342][880]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.22.26:342][880]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.22.26:342][880]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.22.26:342][880]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.32:045][222]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: BD014CD890BC350817C5F20D9049A8B32333B204), compiling. 
+[2022.10.24-07.22.32:047][222]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C2872383AF03A67AB2012EB468F369EA2CF319A), compiling. 
+[2022.10.24-07.22.32:048][222]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.22.32:053][223]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.22.32:065][224]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.22.32:929][275]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.22.33:677][319]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.22.33:677][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.22.33:677][319]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.22.33:677][319]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.23.23:289][295]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 6DC093A46EB2F0FD36D6AEC2AB3B1FD335C4F5D9), compiling. 
+[2022.10.24-07.23.23:291][295]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D844ED288DB7D5D3482D695A23B50D32D2B9DC00), compiling. 
+[2022.10.24-07.23.23:293][295]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.23.23:344][297]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.23.23:344][297]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.23.23:344][297]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.23.23:344][297]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.23.24:573][370]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: C70E969700CC0EFFAAC644DB25F9554D76DB1636), compiling. 
+[2022.10.24-07.23.24:575][370]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.23.24:620][372]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.23.24:620][372]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.23.24:620][372]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.23.24:620][372]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.23.35:606][ 30]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 82300D3B48F646BD2CD1FE96452122836BCDA1C2), compiling. 
+[2022.10.24-07.23.35:608][ 30]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 931FA349B00D776EE2B030ED97E996933CF62701), compiling. 
+[2022.10.24-07.23.35:612][ 30]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.23.35:642][ 31]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.23.35:642][ 31]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.10.24-07.23.35:643][ 31]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.10.24-07.23.35:643][ 31]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.23.35:643][ 31]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.23.35:664][ 32]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.23.35:664][ 32]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.23.35:664][ 32]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.23.36:596][ 87]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: A8FD7C2BCE03FDC01070FC62D2557D4DB00AAE11), compiling. 
+[2022.10.24-07.23.36:598][ 87]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.23.36:631][ 88]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.23.36:631][ 88]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.23.36:631][ 88]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.23.36:631][ 88]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.23.36:631][ 88]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.23.36:632][ 88]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.23.36:632][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.23.36:632][ 88]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.23.36:632][ 88]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.23.36:632][ 88]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.23.37:595][143]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.23.38:753][212]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.23.38:753][212]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.23.38:753][212]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.23.38:753][212]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.23.48:256][782]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: E1CAC97C7A619E2A9864225533FEE4B4D73A4466), compiling. 
+[2022.10.24-07.23.48:258][782]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.23.48:290][784]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.23.48:290][784]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.23.48:290][784]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.23.48:290][784]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.23.48:640][805]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 563F9D4DED98608FE062B8C2C4BA2C8A580C328E), compiling. 
+[2022.10.24-07.23.48:641][805]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.23.48:673][807]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.24-07.23.48:673][807]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.24-07.23.48:673][807]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.24-07.23.48:673][807]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-07.23.51:274][963]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 162427FB6C11C8D69779EE5BECE77EAA35A1D95C), compiling. 
+[2022.10.24-07.23.51:275][963]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F97D09B1951BD71AB79FD872B9DF103D2915A67), compiling. 
+[2022.10.24-07.23.51:278][963]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.23.51:279][963]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.23.51:279][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.23.51:285][964]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.23.51:285][964]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.23.51:285][964]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.23.51:285][964]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.23.51:297][965]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.23.51:297][965]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.23.51:297][965]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.23.51:297][965]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.23.51:297][965]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.23.51:297][965]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.23.52:261][ 19]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.23.52:261][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.23.52:261][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.23.53:036][ 65]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.23.53:036][ 65]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.23.53:036][ 65]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.23.53:036][ 65]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.23.53:036][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.23.53:036][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.19:388][646]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: CF1B7554C0791490122D475CBB03DD2217196452), compiling. 
+[2022.10.24-07.24.19:389][646]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.24.19:389][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.19:389][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.19:409][647]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-07.24.19:409][647]LogShaderCompilers: Display: Total job queries 451, among them cache hits 197 (43.68%)
+[2022.10.24-07.24.19:409][647]LogShaderCompilers: Display: Tracking 244 distinct input hashes that result in 141 distinct outputs (57.79%)
+[2022.10.24-07.24.19:409][647]LogShaderCompilers: Display: RAM used: 0.89 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2022.10.24-07.24.19:409][647]LogShaderCompilers: Display: ================================================
+[2022.10.24-07.24.19:420][648]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.24.19:420][648]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.24.19:420][648]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.24.19:421][648]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.24.19:421][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.19:421][648]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.20:353][704]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 29CB6330E459EF1434BDED68062DDD9F719102B6), compiling. 
+[2022.10.24-07.24.20:355][704]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.24.20:355][704]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.20:355][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.20:386][706]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.24.20:386][706]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.24.20:386][706]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.24.20:386][706]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.24.20:386][706]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.20:386][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.21:004][743]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 24D9A07399D0ADC4D789CCC789D20353D00B5BD9), compiling. 
+[2022.10.24-07.24.21:005][743]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.24.21:005][743]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.21:005][743]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.21:036][745]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.24.21:036][745]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.24.21:036][745]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.24.21:036][745]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.24.21:036][745]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.21:036][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.23:522][894]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F73056E2DCD862AD51759ACB2ECB74285DE3831), compiling. 
+[2022.10.24-07.24.23:523][894]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.24.23:523][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.23:523][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.23:554][896]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.24.23:554][896]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.24.23:554][896]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.24.23:554][896]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.24.23:554][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.23:554][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.26:288][ 60]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: BEBFDD4CD4D7402D2824B65D2B748D5F218B4A41), compiling. 
+[2022.10.24-07.24.26:290][ 60]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.24.26:290][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.26:290][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.26:321][ 62]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.24.26:321][ 62]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.24.26:321][ 62]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.24.26:321][ 62]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.24.26:321][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.26:321][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.31:789][390]LogMaterialEditor: Saving and Compiling material M_P38
+[2022.10.24-07.24.32:103][390]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: D1F209B3E2A5875045754FCEE0CF9D58D782E58F), compiling. 
+[2022.10.24-07.24.32:132][390]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: A3C8F8C1D1A5761FF09A1977E3DF8587490E6C81), compiling. 
+[2022.10.24-07.24.32:169][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.24-07.24.32:175][390]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.24.32:590][390]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.10.24-07.24.32:590][390]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.24.32:618][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.24-07.24.32:672][390]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.10.24-07.24.32:674][390]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.10.24-07.24.32:674][390]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.10.24-07.24.32:674][390]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.10.24-07.24.32:674][390]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.10.24-07.24.32:674][390]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.10.24-07.24.32:674][390]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.24.32:696][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/M_P38" FILE="../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset" SILENT=true
+[2022.10.24-07.24.32:714][390]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/M_P388B4681E94118965A7A946DA398BEE999.tmp' to '../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset'
+[2022.10.24-07.24.32:755][390]AssetCheck: New page: 에셋 저장:  M_P38
+[2022.10.24-07.24.32:755][390]LogContentValidation: Display: Material /Game/P38/Material/M_P38.M_P38 유효성 검사 중
+[2022.10.24-07.24.32:755][390]MaterialEditorStats: Texture samplers: 1/16
+[2022.10.24-07.24.32:755][390]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.32:755][390]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.32:778][391]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.24.32:778][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.32:778][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.33:789][451]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.24.33:789][451]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.33:789][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.33:806][452]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.24.33:806][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.24.33:806][452]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.24.33:806][452]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.24.33:806][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.24.33:806][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.24.40:872][874]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/P38/Meshe/SM_P38_Body.SM_P38_Body
+[2022.10.24-07.24.41:601][875]LogRenderer: Reallocating scene render targets to support 1396x920 Format 10 NumSamples 1 (Frame:1).
+[2022.10.24-07.24.58:470][814]LogSlate: Window '머티리얼 굽기 옵션' being destroyed
+[2022.10.24-07.25.28:417][608]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.25.28:417][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.25.33:176][888]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/P38/Meshe/SM_P38_Body.SM_P38_Body
+[2022.10.24-07.25.56:611][194]LogEditorViewport: Clicking on Actor (LMB): BP_p38_C (BP_p38)
+[2022.10.24-07.25.56:902][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/P38/Blueprint/BP_p38.BP_p38
+[2022.10.24-07.25.59:074][315]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.25.59:074][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.26.10:837][ 14]LogContentBrowser: Deferred new asset file creation: M_P38_Inst
+[2022.10.24-07.26.10:855][ 14]LogContentBrowser: Creating deferred item: M_P38_Inst
+[2022.10.24-07.26.14:593][239]LogContentBrowser: Attempting asset rename: M_P38_Inst -> MI_P38
+[2022.10.24-07.26.14:594][239]LogContentBrowser: End creating deferred item M_P38_Inst
+[2022.10.24-07.26.23:978][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_P38_Body" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Body.uasset" SILENT=true
+[2022.10.24-07.26.24:088][797]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_P38_Body953F55484E6A931B37E77C8FE810F840.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Body.uasset'
+[2022.10.24-07.26.24:104][797]AssetCheck: New page: 에셋 저장:  SM_P38_Body
+[2022.10.24-07.26.24:104][797]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_P38_Body.SM_P38_Body 유효성 검사 중
+[2022.10.24-07.26.30:458][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P38" FILE="../../../../../project/C_221014_/Content/Maps/P38.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.24-07.26.30:571][176]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.10.24-07.26.31:175][176]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/P38D4B8F55045F9B61C2DCE92ACE444C500.tmp' to '../../../../../project/C_221014_/Content/Maps/P38.umap'
+[2022.10.24-07.26.31:199][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P38_BuiltData" FILE="../../../../../project/C_221014_/Content/Maps/P38_BuiltData.uasset" SILENT=true
+[2022.10.24-07.26.31:229][176]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/P38_BuiltData789383D04A9A87EEF2751DBBC1746B14.tmp' to '../../../../../project/C_221014_/Content/Maps/P38_BuiltData.uasset'
+[2022.10.24-07.26.31:260][176]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.10.24-07.26.31:260][176]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/P38_BuiltData.P38_BuiltData 유효성 검사 중
+[2022.10.24-07.26.31:260][176]LogContentValidation: Display: World /Game/Maps/P38.P38 유효성 검사 중
+[2022.10.24-07.26.52:245][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_P38_Body" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Body.uasset" SILENT=true
+[2022.10.24-07.26.52:351][431]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_P38_Body6568ACE14F0038BB69AACCB232A6561F.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Body.uasset'
+[2022.10.24-07.26.52:368][431]AssetCheck: New page: 에셋 저장:  SM_P38_Body
+[2022.10.24-07.26.52:368][431]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_P38_Body.SM_P38_Body 유효성 검사 중
+[2022.10.24-07.27.24:516][357]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: F0F66FE6E050A647C5F4F8FD27946CFBB45EF48F), compiling. 
+[2022.10.24-07.27.24:518][357]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C449D2C2CB87E98B437577FBA7601590CD978669), compiling. 
+[2022.10.24-07.27.24:520][357]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 340B5DEB6F418A84DB8BBE97BF7693CC2C362974), compiling. 
+[2022.10.24-07.27.24:527][357]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 23B51C1A68A8E6922061F1175195EFF63B96B6A6), compiling. 
+[2022.10.24-07.27.24:529][357]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3953B77FF0BB26A1CA7F4EDC456844E2CE2D4181), compiling. 
+[2022.10.24-07.27.24:541][357]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.27.24:541][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.24:541][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.24:581][358]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.27.24:581][358]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-07.27.24:581][358]LogShaderCompilers: Display: Total job queries 529, among them cache hits 267 (50.47%)
+[2022.10.24-07.27.24:581][358]LogShaderCompilers: Display: Tracking 250 distinct input hashes that result in 146 distinct outputs (58.40%)
+[2022.10.24-07.27.24:581][358]LogShaderCompilers: Display: RAM used: 0.91 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2022.10.24-07.27.24:581][358]LogShaderCompilers: Display: ================================================
+[2022.10.24-07.27.24:600][359]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.27.24:600][359]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.27.24:600][359]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.27.24:601][359]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.27.24:601][359]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.27.24:601][359]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.27.24:601][359]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.27.24:601][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.24:601][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.32:605][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AAB108B7379577903526D6F1082DD145CD1D56F), compiling. 
+[2022.10.24-07.27.32:606][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2716B5AED6B7C3DF1FAC031F6D4F99E38231458E), compiling. 
+[2022.10.24-07.27.35:807][ 30]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 48CCAA8BC8AA7A24820C27748B1E2B776A6F93AD), compiling. 
+[2022.10.24-07.27.37:288][118]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 7BA109283ABDB5F6C9788CAF2F7D3845D032DB3B), compiling. 
+[2022.10.24-07.27.37:296][118]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: DE52F6D490E022FC11FC2FEAD570462B55254380), compiling. 
+[2022.10.24-07.27.37:302][118]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.27.37:302][118]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.37:302][118]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.27.37:337][119]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.27.37:338][119]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.27.38:445][184]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.27.38:445][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.38:445][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.39:630][255]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.27.39:630][255]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.27.39:630][255]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.27.39:630][255]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.27.39:630][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.39:630][255]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.43:042][457]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: A9FF60BC4B0996F378BAD306753603263FB00480), compiling. 
+[2022.10.24-07.27.43:050][457]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: EC7697D1177A63B7AC5324BD92B5197A48EC1848), compiling. 
+[2022.10.24-07.27.43:056][457]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.27.43:056][457]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.43:056][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.27.43:090][458]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.27.44:145][517]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.27.44:146][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.44:146][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.45:048][571]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.27.45:048][571]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.27.45:048][571]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.27.45:048][571]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.27.45:048][571]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.45:048][571]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.53:341][ 68]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E0E2E0A33388346B0FCD12E119EE5B407B53D45), compiling. 
+[2022.10.24-07.27.53:345][ 68]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 5BBB39D79F9F90513C6F0BDA8F3B9D95E49B4602), compiling. 
+[2022.10.24-07.27.53:347][ 68]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.27.53:347][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.53:347][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.53:370][ 70]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.27.53:370][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.53:370][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.53:387][ 71]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.27.53:387][ 71]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.27.53:387][ 71]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.27.53:387][ 71]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.27.53:387][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.53:387][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.27.54:919][163]LogMaterialEditor: Saving and Compiling material M_P38
+[2022.10.24-07.27.55:227][163]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: C61DC49C4A547371CB4AB2B299C7D197A74A095F), compiling. 
+[2022.10.24-07.27.55:256][163]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: E272DE0076BA0475B050ADB26ED7F0518A4EBF81), compiling. 
+[2022.10.24-07.27.55:306][163]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2022.10.24-07.27.55:307][163]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.10.24-07.27.55:307][163]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.10.24-07.27.55:307][163]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.10.24-07.27.55:307][163]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.10.24-07.27.55:307][163]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.10.24-07.27.55:307][163]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.10.24-07.27.55:307][163]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.27.55:341][163]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.10.24-07.27.55:721][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.24-07.27.56:005][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/M_P38" FILE="../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset" SILENT=true
+[2022.10.24-07.27.56:019][163]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/M_P384DD279F143781F3732ADD2AA7EF57228.tmp' to '../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset'
+[2022.10.24-07.27.56:034][163]AssetCheck: New page: 에셋 저장:  M_P38
+[2022.10.24-07.27.56:034][163]LogContentValidation: Display: Material /Game/P38/Material/M_P38.M_P38 유효성 검사 중
+[2022.10.24-07.27.56:037][163]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.27.56:037][163]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.27.56:037][163]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.27.56:037][163]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.27.56:037][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.27.56:037][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.28.17:426][445]LogMaterialEditor: Applying material M_P38
+[2022.10.24-07.28.17:739][445]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AD327E22EB24DB9D632D06B14A32B01D8305A6F), compiling. 
+[2022.10.24-07.28.17:766][445]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 61A073278183DEF3B6F36EE5A3EDD7E2699FEF47), compiling. 
+[2022.10.24-07.28.17:795][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.24-07.28.17:951][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.24-07.28.19:935][563]LogMaterialEditor: Saving and Compiling material M_P38
+[2022.10.24-07.28.19:959][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/M_P38" FILE="../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset" SILENT=true
+[2022.10.24-07.28.19:974][563]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/M_P3849D31E8E4D2CC47F9B7384B1531AC8F0.tmp' to '../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset'
+[2022.10.24-07.28.19:991][563]AssetCheck: New page: 에셋 저장:  M_P38
+[2022.10.24-07.28.19:991][563]LogContentValidation: Display: Material /Game/P38/Material/M_P38.M_P38 유효성 검사 중
+[2022.10.24-07.28.25:206][874]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.28.25:206][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.28.27:032][981]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/P38/Material/MI_P38.MI_P38
+[2022.10.24-07.28.52:476][491]LogContentBrowser: Attempting asset rename: MI_P38_2 -> MI_P38_Propeller
+[2022.10.24-07.28.52:533][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/MI_P38_Propeller" FILE="../../../../../project/C_221014_/Content/P38/Material/MI_P38_Propeller.uasset" SILENT=true
+[2022.10.24-07.28.52:549][491]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/MI_P38_PropellerCAA0074B471F763BB1A778AD214D23A1.tmp' to '../../../../../project/C_221014_/Content/P38/Material/MI_P38_Propeller.uasset'
+[2022.10.24-07.28.52:634][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.10.24-07.28.52:675][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.10.24-07.28.52:702][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.24-07.28.52:733][491]AssetCheck: New page: 에셋 저장:  MI_P38_Propeller
+[2022.10.24-07.28.52:733][491]LogContentValidation: Display: MaterialInstanceConstant /Game/P38/Material/MI_P38_Propeller.MI_P38_Propeller 유효성 검사 중
+[2022.10.24-07.28.57:627][780]LogContentBrowser: Attempting asset rename: MI_P38_2 -> MI_P38_Rocket
+[2022.10.24-07.28.57:678][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/MI_P38_Rocket" FILE="../../../../../project/C_221014_/Content/P38/Material/MI_P38_Rocket.uasset" SILENT=true
+[2022.10.24-07.28.57:692][780]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/MI_P38_Rocket222583394E719524025694B260C1FE61.tmp' to '../../../../../project/C_221014_/Content/P38/Material/MI_P38_Rocket.uasset'
+[2022.10.24-07.28.57:772][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.24-07.28.57:807][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.10.24-07.28.57:834][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.24-07.28.57:867][780]AssetCheck: New page: 에셋 저장:  MI_P38_Rocket
+[2022.10.24-07.28.57:867][780]LogContentValidation: Display: MaterialInstanceConstant /Game/P38/Material/MI_P38_Rocket.MI_P38_Rocket 유효성 검사 중
+[2022.10.24-07.29.05:879][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.24-07.29.06:717][259]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.10.24-07.29.06:756][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/MI_P38" FILE="../../../../../project/C_221014_/Content/P38/Material/MI_P38.uasset" SILENT=true
+[2022.10.24-07.29.06:786][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.24-07.29.06:819][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.24-07.29.06:834][259]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/MI_P3897D70B5B4BCD6476393FC88EC3F783F4.tmp' to '../../../../../project/C_221014_/Content/P38/Material/MI_P38.uasset'
+[2022.10.24-07.29.06:851][259]AssetCheck: New page: 에셋 저장:  MI_P38
+[2022.10.24-07.29.06:851][259]LogContentValidation: Display: MaterialInstanceConstant /Game/P38/Material/MI_P38.MI_P38 유효성 검사 중
+[2022.10.24-07.29.11:753][552]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/P38/Material/MI_P38_Propeller.MI_P38_Propeller
+[2022.10.24-07.29.25:847][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/MI_P38_Propeller" FILE="../../../../../project/C_221014_/Content/P38/Material/MI_P38_Propeller.uasset" SILENT=true
+[2022.10.24-07.29.25:875][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.24-07.29.25:906][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.24-07.29.25:921][387]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/MI_P38_PropellerA55D0848425CFCDBB16075ACA24183A1.tmp' to '../../../../../project/C_221014_/Content/P38/Material/MI_P38_Propeller.uasset'
+[2022.10.24-07.29.25:935][387]AssetCheck: New page: 에셋 저장:  MI_P38_Propeller
+[2022.10.24-07.29.25:935][387]LogContentValidation: Display: MaterialInstanceConstant /Game/P38/Material/MI_P38_Propeller.MI_P38_Propeller 유효성 검사 중
+[2022.10.24-07.29.31:405][714]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/P38/Meshe/SM_P38_Propeller.SM_P38_Propeller
+[2022.10.24-07.29.48:803][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_P38_Propeller" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Propeller.uasset" SILENT=true
+[2022.10.24-07.29.48:916][720]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_P38_Propeller6260600145022B5791EC1E962EABC3A6.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Propeller.uasset'
+[2022.10.24-07.29.48:930][720]AssetCheck: New page: 에셋 저장:  SM_P38_Propeller
+[2022.10.24-07.29.48:930][720]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_P38_Propeller.SM_P38_Propeller 유효성 검사 중
+[2022.10.24-07.29.50:983][842]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/P38/Meshe/SM_Rocket.SM_Rocket
+[2022.10.24-07.29.56:725][159]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/P38/Material/MI_P38_Rocket.MI_P38_Rocket
+[2022.10.24-07.30.18:845][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/MI_P38_Rocket" FILE="../../../../../project/C_221014_/Content/P38/Material/MI_P38_Rocket.uasset" SILENT=true
+[2022.10.24-07.30.18:875][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.24-07.30.18:910][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.24-07.30.18:922][461]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/MI_P38_Rocket36150AE240B71AE4A3235D8314C47EC1.tmp' to '../../../../../project/C_221014_/Content/P38/Material/MI_P38_Rocket.uasset'
+[2022.10.24-07.30.18:938][461]AssetCheck: New page: 에셋 저장:  MI_P38_Rocket
+[2022.10.24-07.30.18:938][461]LogContentValidation: Display: MaterialInstanceConstant /Game/P38/Material/MI_P38_Rocket.MI_P38_Rocket 유효성 검사 중
+[2022.10.24-07.30.35:105][415]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.30.35:105][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.30.36:123][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_Rocket" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_Rocket.uasset" SILENT=true
+[2022.10.24-07.30.36:239][473]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_RocketC14C24D84C4EB5150DBD75A1F89932C8.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_Rocket.uasset'
+[2022.10.24-07.30.36:257][473]AssetCheck: New page: 에셋 저장:  SM_Rocket
+[2022.10.24-07.30.36:257][473]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_Rocket.SM_Rocket 유효성 검사 중
+[2022.10.24-07.30.53:462][504]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.30.53:462][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.30.54:491][564]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.30.54:491][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.30.59:118][839]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/P38/Material/M_P38.M_P38
+[2022.10.24-07.30.59:120][839]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 753D43553C8B503984C666098FDD6FF6431F15CF), compiling. 
+[2022.10.24-07.30.59:130][839]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.10.24-07.30.59:195][839]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5096907D97F9B3F297620C950769EF0AF25DE1D4), compiling. 
+[2022.10.24-07.30.59:197][839]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 311C2B7DB148F65BF35591CF1EC65AD573E63BFA), compiling. 
+[2022.10.24-07.30.59:199][839]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FABA190930061FDA63E0CCF1F93873D26CD3B441), compiling. 
+[2022.10.24-07.30.59:223][839]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.30.59:223][839]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.30.59:223][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.30.59:293][840]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.30.59:294][840]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.30.59:444][846]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-07.30.59:444][846]LogShaderCompilers: Display: Total job queries 638, among them cache hits 330 (51.72%)
+[2022.10.24-07.30.59:444][846]LogShaderCompilers: Display: Tracking 278 distinct input hashes that result in 160 distinct outputs (57.55%)
+[2022.10.24-07.30.59:444][846]LogShaderCompilers: Display: RAM used: 1.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2022.10.24-07.30.59:444][846]LogShaderCompilers: Display: ================================================
+[2022.10.24-07.31.01:239][911]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.31.01:239][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.31.01:239][911]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.31.02:221][957]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.31.02:222][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.31.02:222][957]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.31.02:222][957]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.31.02:222][957]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.31.02:222][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.31.05:951][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_Rocket" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_Rocket.uasset" SILENT=true
+[2022.10.24-07.31.06:060][177]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_Rocket6C304B46439FDCFC7B3F3EBA28B75C66.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_Rocket.uasset'
+[2022.10.24-07.31.06:077][177]AssetCheck: New page: 에셋 저장:  SM_Rocket
+[2022.10.24-07.31.06:077][177]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_Rocket.SM_Rocket 유효성 검사 중
+[2022.10.24-07.31.07:486][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_P38_Propeller" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Propeller.uasset" SILENT=true
+[2022.10.24-07.31.07:594][260]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_P38_PropellerDCC5C2994A2CA2B5DC437BAFD5F6C850.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Propeller.uasset'
+[2022.10.24-07.31.07:609][260]AssetCheck: New page: 에셋 저장:  SM_P38_Propeller
+[2022.10.24-07.31.07:610][260]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_P38_Propeller.SM_P38_Propeller 유효성 검사 중
+[2022.10.24-07.31.09:431][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Meshe/SM_P38_Body" FILE="../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Body.uasset" SILENT=true
+[2022.10.24-07.31.09:534][368]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/SM_P38_Body318239534F2694F1693FF2B9A7893D3E.tmp' to '../../../../../project/C_221014_/Content/P38/Meshe/SM_P38_Body.uasset'
+[2022.10.24-07.31.09:553][368]AssetCheck: New page: 에셋 저장:  SM_P38_Body
+[2022.10.24-07.31.09:553][368]LogContentValidation: Display: StaticMesh /Game/P38/Meshe/SM_P38_Body.SM_P38_Body 유효성 검사 중
+[2022.10.24-07.31.13:508][605]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.31.13:508][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.31.13:987][628]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.31.13:987][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.31.14:443][650]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.31.14:443][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.31.15:420][702]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.31.15:420][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.31.17:687][836]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.24-07.31.17:687][836]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.31.17:687][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.31.20:665][993]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.24-07.31.20:677][993]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2022.10.24-07.31.20:678][993]LogPlayLevel: [PlayLevel] Compiling BP_p38 before play...
+[2022.10.24-07.31.20:711][993]LogPlayLevel: [PlayLevel] Compiling BP_p39_Pawn before play...
+[2022.10.24-07.31.20:757][993]LogPlayLevel: [PlayLevel] Compiling BP_Rocket before play...
+[2022.10.24-07.31.20:840][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.10.24-07.31.20:850][993]LogPlayLevel: PlayLevel: Blueprint regeneration took 173 ms (3 blueprints)
+[2022.10.24-07.31.20:850][993]PIE: New page: PIE 세션: P38 (2022. 10. 25. 오전 1:31:20)
+[2022.10.24-07.31.20:851][993]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P38
+[2022.10.24-07.31.20:853][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002164s)
+[2022.10.24-07.31.20:854][993]LogAIModule: Creating AISystem for world P38
+[2022.10.24-07.31.20:854][993]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2022.10.24-07.31.20:854][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P38.P38 to /Game/Maps/UEDPIE_0_P38.P38 (0.003566s)
+[2022.10.24-07.31.20:885][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.10.24-07.31.20:885][993]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.10.24-07.31.20:885][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.24-07.31.20:885][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.24-07.31.20:885][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.24-07.31.20:885][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.24-07.31.20:885][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.24-07.31.20:885][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.24-07.31.20:885][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.24-07.31.20:885][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.24-07.31.20:886][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.24-07.31.20:886][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.24-07.31.20:886][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.24-07.31.20:886][993]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.24-07.31.20:891][993]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.24-07.31.20:891][993]LogAudioMixer: Display: 1: FrontRight
+[2022.10.24-07.31.20:891][993]LogAudioMixer: Display: 2: FrontCenter
+[2022.10.24-07.31.20:891][993]LogAudioMixer: Display: 3: LowFrequency
+[2022.10.24-07.31.20:891][993]LogAudioMixer: Display: 4: BackLeft
+[2022.10.24-07.31.20:891][993]LogAudioMixer: Display: 5: BackRight
+[2022.10.24-07.31.20:891][993]LogAudioMixer: Display: 6: SideLeft
+[2022.10.24-07.31.20:891][993]LogAudioMixer: Display: 7: SideRight
+[2022.10.24-07.31.20:937][993]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2022.10.24-07.31.20:937][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.24-07.31.20:937][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.24-07.31.20:937][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.24-07.31.20:938][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.24-07.31.20:938][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.24-07.31.20:938][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.10.24-07.31.20:939][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.24-07.31.20:939][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.24-07.31.20:939][993]LogInit: FAudioDevice initialized.
+[2022.10.24-07.31.20:939][993]LogAudio: Display: Audio Device (ID: 33) registered with world 'P38'.
+[2022.10.24-07.31.20:962][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-07.31.20:963][993]LogLoad: Game class is 'BP_GM_C'
+[2022.10.24-07.31.20:965][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P38.P38 up for play (max tick rate 60) at 2022.10.24-16.31.20
+[2022.10.24-07.31.20:965][993]LogWorld: Bringing up level for play took: 0.001094
+[2022.10.24-07.31.20:965][993]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.10.24-07.31.20:970][993]PIE: 서버가 로그인했습니다.
+[2022.10.24-07.31.20:971][993]PIE: 에디터에서 플레이 총 시작 시간 0.295초입니다.
+[2022.10.24-07.32.07:079][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-07.32.07:079][109]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_P38
+[2022.10.24-07.32.07:080][109]LogSlate: Window 'C_221014_ 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2022.10.24-07.32.07:084][109]LogWorld: UWorld::CleanupWorld for P38, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.32.07:085][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.32.07:096][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.24-07.32.07:115][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.32.07:143][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.24-07.32.07:144][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.24-07.32.07:145][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.24-07.32.07:182][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.10.24-07.32.07:223][110]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.10.24-07.32.13:795][810]LogEditorTransaction: Undo 컴포넌트 붙이기
+[2022.10.24-07.33.35:569][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/P38/Blueprint/BP_p38.BP_p38
+[2022.10.24-07.33.40:739][336]BlueprintLog: New page: BP_p38 컴파일
+[2022.10.24-07.33.40:803][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.10.24-07.33.41:043][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Blueprint/BP_p38" FILE="../../../../../project/C_221014_/Content/P38/Blueprint/BP_p38.uasset" SILENT=true
+[2022.10.24-07.33.41:542][357]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/BP_p381B9DD59641BFF8E6607370BBD1900578.tmp' to '../../../../../project/C_221014_/Content/P38/Blueprint/BP_p38.uasset'
+[2022.10.24-07.33.41:557][357]AssetCheck: New page: 에셋 저장:  BP_p38
+[2022.10.24-07.33.41:557][357]LogContentValidation: Display: Blueprint /Game/P38/Blueprint/BP_p38.BP_p38 유효성 검사 중
+[2022.10.24-07.33.41:685][371]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-07.33.41:685][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-07.33.48:529][ 80]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/P38/Material/M_P38.M_P38
+[2022.10.24-07.33.48:530][ 80]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B1DA1113502A88454700427EE315156E4E164F13), compiling. 
+[2022.10.24-07.33.48:539][ 80]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.10.24-07.33.48:602][ 80]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B7C28B5AACAC8E2C83631DF291E0C9BA4370BA31), compiling. 
+[2022.10.24-07.33.48:604][ 80]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 23D2C6974E731165FDB8E9ADC3C1E091D2274635), compiling. 
+[2022.10.24-07.33.48:606][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C7C53E5E666F253472B29FF1DB4138EDD16CB366), compiling. 
+[2022.10.24-07.33.48:628][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.33.48:628][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.33.48:628][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.33.48:690][ 81]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.33.50:167][179]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 60BB32E6CA953CD97E87F2B3A24E682B55FE3D21), compiling. 
+[2022.10.24-07.33.50:170][179]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 13D2A778AC7E1D50254FDF772F7D32145E69FF41), compiling. 
+[2022.10.24-07.33.50:414][191]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.33.50:414][191]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.33.50:414][191]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.33.51:359][268]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.10.24-07.33.51:359][268]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.10.24-07.33.51:359][268]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.33.51:359][268]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-07.33.51:359][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.24-07.33.51:360][268]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.33.53:594][504]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F909F6AC6117CC2B210A2B6F2E944B9567AEE535), compiling. 
+[2022.10.24-07.33.53:594][504]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.24-07.33.53:594][504]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.10.24-07.33.53:595][504]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 51859347F14960EF191A906338A67E6FBF3DEB7D), compiling. 
+[2022.10.24-07.33.53:599][504]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.10.24-07.34.04:716][683]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F502856C41CE9066DC16D663F562A9D5A3D6ABB), compiling. 
+[2022.10.24-07.34.04:718][683]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A9CD642380F48BD1726E2682E815172E5F4BED6B), compiling. 
+[2022.10.24-07.34.04:721][683]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E2316F4C1EA60BF8C326F2983F502F036688589E), compiling. 
+[2022.10.24-07.34.04:727][683]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.34.04:727][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.34.04:727][683]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.34.04:759][684]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.34.04:759][684]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.34.04:759][684]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.34.04:759][684]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.34.04:759][684]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.34.04:759][684]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.34.04:760][684]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.34.04:760][684]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.34.04:760][684]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.34.04:760][684]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.34.04:771][685]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.34.04:771][685]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.10.24-07.34.04:771][685]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.10.24-07.34.04:771][685]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.34.05:727][747]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-07.34.05:728][747]LogShaderCompilers: Display: Total job queries 692, among them cache hits 343 (49.57%)
+[2022.10.24-07.34.05:728][747]LogShaderCompilers: Display: Tracking 299 distinct input hashes that result in 160 distinct outputs (53.51%)
+[2022.10.24-07.34.05:728][747]LogShaderCompilers: Display: RAM used: 1.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2022.10.24-07.34.05:728][747]LogShaderCompilers: Display: ================================================
+[2022.10.24-07.34.06:119][769]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.34.06:119][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.34.06:119][769]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.34.07:134][854]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.10.24-07.34.07:134][854]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.10.24-07.34.07:134][854]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.34.07:134][854]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.34.07:134][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.34.07:134][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.34.18:164][148]LogMaterialEditor: Applying material M_P38
+[2022.10.24-07.34.18:480][148]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F43201DD7D299CA32668BDA81B7640CD9250227), compiling. 
+[2022.10.24-07.34.18:504][148]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BEA3EBD7294B0D0AB711933C3B7EBDBB1573FC7), compiling. 
+[2022.10.24-07.34.18:533][148]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.34.18:533][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.34.18:533][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.34.18:533][148]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.34.18:557][148]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.10.24-07.34.18:558][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.10.24-07.34.18:558][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.10.24-07.34.18:558][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.10.24-07.34.18:558][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.10.24-07.34.18:558][148]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.10.24-07.34.18:558][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.10.24-07.34.18:558][148]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.34.18:584][148]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2022.10.24-07.34.19:717][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.34.19:717][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.34.19:717][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.10.24-07.34.19:717][148]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.34.19:784][148]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2022.10.24-07.34.19:799][148]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.34.19:799][148]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.34.19:799][148]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.34.19:869][152]MaterialEditorStats: Texture samplers: 5/16
+[2022.10.24-07.34.19:869][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.34.19:869][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.34.20:254][180]LogMaterialEditor: Saving and Compiling material M_P38
+[2022.10.24-07.34.20:411][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/M_P38" FILE="../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset" SILENT=true
+[2022.10.24-07.34.20:599][180]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/M_P38B403A3EB40A4D1308DF4A5AB49B3E33C.tmp' to '../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset'
+[2022.10.24-07.34.20:616][180]AssetCheck: New page: 에셋 저장:  M_P38
+[2022.10.24-07.34.20:616][180]LogContentValidation: Display: Material /Game/P38/Material/M_P38.M_P38 유효성 검사 중
+[2022.10.24-07.34.20:616][180]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.10.24-07.34.20:617][180]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.10.24-07.34.20:617][180]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.34.20:617][180]MaterialEditorStats: Texture samplers: 5/16
+[2022.10.24-07.34.20:617][180]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.34.20:617][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.10:136][106]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 14533E55D9D342123D8F1098D79C5DE500B08031), compiling. 
+[2022.10.24-07.36.10:139][106]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C576A1CF311BC1F044DD2126630F4698ADD267D), compiling. 
+[2022.10.24-07.36.10:142][106]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C9A7BACC4EBCDC4B8D0981FAFD9DE241C412564), compiling. 
+[2022.10.24-07.36.10:146][106]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.36.10:146][106]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.36.10:146][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.24-07.36.10:176][107]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.24-07.36.10:177][107]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.24-07.36.10:202][108]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.36.10:366][122]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.10.24-07.36.10:366][122]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.10.24-07.36.10:367][122]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.36.12:314][258]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.36.12:314][258]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.36.12:314][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.13:351][339]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.10.24-07.36.13:351][339]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.10.24-07.36.13:351][339]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.36.13:351][339]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.36.13:351][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.36.13:351][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.13:910][401]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 71FDE5272F0809DF6762B2C99B98D463BBA659B9), compiling. 
+[2022.10.24-07.36.13:911][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E3D8C2A5DEDC532C40F90EBBABEA12704C400292), compiling. 
+[2022.10.24-07.36.13:913][401]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.36.13:913][401]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.36.13:913][401]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.13:966][403]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.10.24-07.36.13:966][403]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.10.24-07.36.13:966][403]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.36.13:966][403]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.36.13:966][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.36.13:966][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.16:171][632]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 516A2CD3E3EA850BD8198F607E3F1E47DDA57B40), compiling. 
+[2022.10.24-07.36.16:173][632]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C29A279F442B05B1F9D7377D892C3CB00D686247), compiling. 
+[2022.10.24-07.36.16:174][632]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 45702B1F55CDF8467312833703D0F328984508C9), compiling. 
+[2022.10.24-07.36.16:184][632]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B39608F5C7C60BEB1B68DA232C324C713F3ADF7), compiling. 
+[2022.10.24-07.36.16:185][632]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4346D9E3E094D55675F9CC8E7EF5EFC5ECC5B5DD), compiling. 
+[2022.10.24-07.36.16:197][632]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-07.36.16:197][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.36.16:197][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.16:260][634]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.36.16:260][634]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.24-07.36.16:260][634]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.24-07.36.16:260][634]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.24-07.36.16:261][634]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.10.24-07.36.16:261][634]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.10.24-07.36.16:261][634]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.36.16:261][634]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.24-07.36.16:261][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.36.16:262][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.20:417][104]LogMaterialEditor: Saving and Compiling material M_P38
+[2022.10.24-07.36.20:738][104]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D1717E732F8F8CE3ACBBE7F3E3FF6E360D267C3), compiling. 
+[2022.10.24-07.36.20:762][104]LogMaterial: Display: Missing cached shadermap for M_P38 in PCD3D_SM5, Default, SM5 (DDC key hash: CA88620B472228DCA4E8B2E2A942E71347C59F62), compiling. 
+[2022.10.24-07.36.20:823][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.10.24-07.36.20:990][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-07.36.21:032][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/M_P38" FILE="../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset" SILENT=true
+[2022.10.24-07.36.21:196][104]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/M_P383648B8D04422CDCAC7C4178A0FBD3199.tmp' to '../../../../../project/C_221014_/Content/P38/Material/M_P38.uasset'
+[2022.10.24-07.36.21:212][104]AssetCheck: New page: 에셋 저장:  M_P38
+[2022.10.24-07.36.21:213][104]LogContentValidation: Display: Material /Game/P38/Material/M_P38.M_P38 유효성 검사 중
+[2022.10.24-07.36.21:213][104]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.10.24-07.36.21:213][104]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.10.24-07.36.21:213][104]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.24-07.36.21:213][104]MaterialEditorStats: Texture samplers: 5/16
+[2022.10.24-07.36.21:213][104]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.10.24-07.36.21:213][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.24-07.36.25:804][598]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/P38/Meshe/SM_Rocket.SM_Rocket
+[2022.10.24-07.36.50:674][402]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/P38/Material/MI_P38_Rocket.MI_P38_Rocket
+[2022.10.24-07.37.18:512][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/MI_P38_Rocket" FILE="../../../../../project/C_221014_/Content/P38/Material/MI_P38_Rocket.uasset" SILENT=true
+[2022.10.24-07.37.18:538][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.10.24-07.37.18:576][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.10.24-07.37.18:589][651]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/MI_P38_RocketB86C22EA4590B370327D83A0DE6FC719.tmp' to '../../../../../project/C_221014_/Content/P38/Material/MI_P38_Rocket.uasset'
+[2022.10.24-07.37.18:606][651]AssetCheck: New page: 에셋 저장:  MI_P38_Rocket
+[2022.10.24-07.37.18:606][651]LogContentValidation: Display: MaterialInstanceConstant /Game/P38/Material/MI_P38_Rocket.MI_P38_Rocket 유효성 검사 중
+[2022.10.24-07.37.44:230][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.24-07.37.44:237][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P38" FILE="../../../../../project/C_221014_/Saved/Autosaves/Game/Maps/P38_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.24-07.37.44:860][442]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/P38_Auto69BBBD1454806D8D74B15E1B70D3BFDB9.tmp' to '../../../../../project/C_221014_/Saved/Autosaves/Game/Maps/P38_Auto6.umap'
+[2022.10.24-07.37.44:866][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/P38' took 0.660
+[2022.10.24-07.37.44:866][442]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.660
+[2022.10.24-07.37.48:103][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Material/MI_P38_Rocket" FILE="../../../../../project/C_221014_/Content/P38/Material/MI_P38_Rocket.uasset" SILENT=true
+[2022.10.24-07.37.48:113][807]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/MI_P38_Rocket27A5175949A3B15F92CCDC86203C6CA0.tmp' to '../../../../../project/C_221014_/Content/P38/Material/MI_P38_Rocket.uasset'
+[2022.10.24-07.37.48:128][807]AssetCheck: New page: 에셋 저장:  MI_P38_Rocket
+[2022.10.24-07.37.48:128][807]LogContentValidation: Display: MaterialInstanceConstant /Game/P38/Material/MI_P38_Rocket.MI_P38_Rocket 유효성 검사 중
+[2022.10.24-07.37.50:083][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P38" FILE="../../../../../project/C_221014_/Content/Maps/P38.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.24-07.37.50:109][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.24-07.37.50:702][ 17]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/P3897E228DA44B0F004873AA2A8E2749094.tmp' to '../../../../../project/C_221014_/Content/Maps/P38.umap'
+[2022.10.24-07.37.50:725][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P38_BuiltData" FILE="../../../../../project/C_221014_/Content/Maps/P38_BuiltData.uasset" SILENT=true
+[2022.10.24-07.37.50:746][ 17]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/P38_BuiltData6717FFE74434B36A18A8CEB4E44092BD.tmp' to '../../../../../project/C_221014_/Content/Maps/P38_BuiltData.uasset'
+[2022.10.24-07.37.50:777][ 17]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.10.24-07.37.50:777][ 17]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/P38_BuiltData.P38_BuiltData 유효성 검사 중
+[2022.10.24-07.37.50:777][ 17]LogContentValidation: Display: World /Game/Maps/P38.P38 유효성 검사 중
+[2022.10.24-07.37.51:887][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.10.24-07.41.39:365][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P38" FILE="../../../../../project/C_221014_/Content/Maps/P38.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.24-07.41.39:393][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.10.24-07.41.40:024][ 19]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/P38C9A83C774246D3E7AFD256A77C218F17.tmp' to '../../../../../project/C_221014_/Content/Maps/P38.umap'
+[2022.10.24-07.41.40:048][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P38_BuiltData" FILE="../../../../../project/C_221014_/Content/Maps/P38_BuiltData.uasset" SILENT=true
+[2022.10.24-07.41.40:068][ 19]LogSavePackage: Moving '../../../../../project/C_221014_/Saved/P38_BuiltData4309AFD64F609E700834509CF85553F9.tmp' to '../../../../../project/C_221014_/Content/Maps/P38_BuiltData.uasset'
+[2022.10.24-07.41.40:098][ 19]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.10.24-07.41.40:098][ 19]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/P38_BuiltData.P38_BuiltData 유효성 검사 중
+[2022.10.24-07.41.40:099][ 19]LogContentValidation: Display: World /Game/Maps/P38.P38 유효성 검사 중
